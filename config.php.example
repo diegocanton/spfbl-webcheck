@@ -1,0 +1,10 @@
+<?php
+// URL do SPFBL
+$url="spfbl.domain.tld";
+
+// Contatos de suporte
+$telefone = "+55 (11) 0123 4567";
+$suportemail = "user@domain.tld";
+
+
+?>
